@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="c++" Database="" Version="10000">
+  <Project Name="laboratorio" Path="laboratorio/laboratorio.project" Active="No"/>
+  <Project Name="ejemplo1" Path="ejemplo1/ejemplo1.project" Active="No"/>
+  <Project Name="ejemplo2" Path="ejemplo2/ejemplo2.project" Active="No"/>
+  <Project Name="ejemplo3" Path="ejemplo3/ejemplo3.project" Active="No"/>
+  <Project Name="ejemplo4" Path="ejemplo4/ejemplo4.project" Active="No"/>
+  <Project Name="ejemplo5" Path="ejemplo5/ejemplo5.project" Active="No"/>
+  <Project Name="ejemplo6" Path="ejemplo6/ejemplo6.project" Active="No"/>
+  <Project Name="ejemplo7" Path="ejemplo7/ejemplo7.project" Active="No"/>
+  <Project Name="ejemplo8" Path="ejemplo8/ejemplo8.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="laboratorio" ConfigName="Debug"/>
+      <Project Name="ejemplo1" ConfigName="Debug"/>
+      <Project Name="ejemplo2" ConfigName="Debug"/>
+      <Project Name="ejemplo3" ConfigName="Debug"/>
+      <Project Name="ejemplo4" ConfigName="Debug"/>
+      <Project Name="ejemplo5" ConfigName="Debug"/>
+      <Project Name="ejemplo6" ConfigName="Debug"/>
+      <Project Name="ejemplo7" ConfigName="Debug"/>
+      <Project Name="ejemplo8" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="laboratorio" ConfigName="Release"/>
+      <Project Name="ejemplo1" ConfigName="Release"/>
+      <Project Name="ejemplo2" ConfigName="Release"/>
+      <Project Name="ejemplo3" ConfigName="Release"/>
+      <Project Name="ejemplo4" ConfigName="Release"/>
+      <Project Name="ejemplo5" ConfigName="Release"/>
+      <Project Name="ejemplo6" ConfigName="Release"/>
+      <Project Name="ejemplo7" ConfigName="Release"/>
+      <Project Name="ejemplo8" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
