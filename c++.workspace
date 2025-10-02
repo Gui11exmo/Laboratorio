@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="c++" Database="" Version="10000">
-  <Project Name="laboratorio" Path="laboratorio/laboratorio.project" Active="No"/>
   <Project Name="ejemplo1" Path="ejemplo1/ejemplo1.project" Active="No"/>
   <Project Name="ejemplo2" Path="ejemplo2/ejemplo2.project" Active="No"/>
   <Project Name="ejemplo3" Path="ejemplo3/ejemplo3.project" Active="No"/>
@@ -8,11 +7,19 @@
   <Project Name="ejemplo5" Path="ejemplo5/ejemplo5.project" Active="No"/>
   <Project Name="ejemplo6" Path="ejemplo6/ejemplo6.project" Active="No"/>
   <Project Name="ejemplo7" Path="ejemplo7/ejemplo7.project" Active="No"/>
-  <Project Name="ejemplo8" Path="ejemplo8/ejemplo8.project" Active="Yes"/>
+  <Project Name="ejemplo8" Path="ejemplo8/ejemplo8.project" Active="No"/>
+  <Project Name="pasoPorReferencia" Path="pasoPorReferencia/pasoPorReferencia.project" Active="No"/>
+  <Project Name="pasoDeArgumentos" Path="pasoDeArgumentos/pasoDeArgumentos.project" Active="No"/>
+  <Project Name="ejemplo9" Path="ejemplo9/ejemplo9.project" Active="No"/>
+  <Project Name="ejemplo10" Path="ejemplo10/ejemplo10.project" Active="No"/>
+  <Project Name="ejemplo11" Path="ejemplo11/ejemplo11.project" Active="No"/>
+  <Project Name="ejemplo12" Path="ejemplo12/ejemplo12.project" Active="No"/>
+  <Project Name="ejemplo12" Path="ejemplo12/ejemplo12.project" Active="No"/>
+  <Project Name="pilas" Path="ejemplo14/ejemplo14.project" Active="No"/>
+  <Project Name="colas" Path="colas/colas.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
-      <Project Name="laboratorio" ConfigName="Debug"/>
       <Project Name="ejemplo1" ConfigName="Debug"/>
       <Project Name="ejemplo2" ConfigName="Debug"/>
       <Project Name="ejemplo3" ConfigName="Debug"/>
@@ -21,10 +28,18 @@
       <Project Name="ejemplo6" ConfigName="Debug"/>
       <Project Name="ejemplo7" ConfigName="Debug"/>
       <Project Name="ejemplo8" ConfigName="Debug"/>
+      <Project Name="pasoPorReferencia" ConfigName="Debug"/>
+      <Project Name="pasoDeArgumentos" ConfigName="Debug"/>
+      <Project Name="ejemplo9" ConfigName="Debug"/>
+      <Project Name="ejemplo10" ConfigName="Debug"/>
+      <Project Name="ejemplo11" ConfigName="Debug"/>
+      <Project Name="ejemplo12" ConfigName="Debug"/>
+      <Project Name="ejemplo12" ConfigName="Debug"/>
+      <Project Name="pilas" ConfigName="Debug"/>
+      <Project Name="colas" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
-      <Project Name="laboratorio" ConfigName="Release"/>
       <Project Name="ejemplo1" ConfigName="Release"/>
       <Project Name="ejemplo2" ConfigName="Release"/>
       <Project Name="ejemplo3" ConfigName="Release"/>
@@ -33,6 +48,15 @@
       <Project Name="ejemplo6" ConfigName="Release"/>
       <Project Name="ejemplo7" ConfigName="Release"/>
       <Project Name="ejemplo8" ConfigName="Release"/>
+      <Project Name="pasoPorReferencia" ConfigName="Release"/>
+      <Project Name="pasoDeArgumentos" ConfigName="Release"/>
+      <Project Name="ejemplo9" ConfigName="Release"/>
+      <Project Name="ejemplo10" ConfigName="Release"/>
+      <Project Name="ejemplo11" ConfigName="Release"/>
+      <Project Name="ejemplo12" ConfigName="Release"/>
+      <Project Name="ejemplo12" ConfigName="Release"/>
+      <Project Name="pilas" ConfigName="Release"/>
+      <Project Name="colas" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

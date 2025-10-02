@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Project Name="ejemplo8" Version="11000" InternalType="Console">
+<CodeLite_Project Name="colas" Version="11000" InternalType="Console">
+  <VirtualDirectory Name="Source Files">
+    <File Name="NodoCola.cpp"/>
+    <File Name="Cola.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="Header Files">
+    <File Name="Cola.hpp"/>
+    <File Name="NodoCola.hpp"/>
+  </VirtualDirectory>
   <Description/>
   <Dependencies/>
   <Settings Type="Executable">
